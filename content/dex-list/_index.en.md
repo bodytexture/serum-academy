@@ -54,7 +54,7 @@ There are many teams who are hosting GUIs on Serum DEX markets; some have signif
 
 - ProjectSerumDex: [https://projectserumdex.com/#/](https://projectserumdex.com/#/) - This GUI is not affiliated to [Project Serum](https://projectserum.com)
 
-- In girum imus nocte et consumimur igni DEX : [https://ingirumimusnocteetconsumimurigni.io/#/](https://ingirumimusnocteetconsumimurigni.io/#/)
+- In girum imus nocte et consumimur igni DEX : [https://ingirumimusnocteetconsumimurigni.io](https://ingirumimusnocteetconsumimurigni.io)
 
 ### Mobile
 
@@ -71,6 +71,8 @@ There are many teams who are hosting GUIs on Serum DEX markets; some have signif
 - CryptoStarkWolf Swap: [https://serum-swap.cryptostarkwolf.com/](https://serum-swap.cryptostarkwolf.com/)
 
 - SRMSwap(中文版): [https://srmswap.com/](https://srmswap.com/)
+
+- In girum imus nocte et consumimur igni SWAP: [https://swap.ingirumimusnocteetconsumimurigni.io](https://swap.ingirumimusnocteetconsumimurigni.io)
 
 ### Mobile
 
